@@ -1,6 +1,4 @@
 # Movie API
-
-## Overview
 MovieAPI is a RESTful API designed to provide movie-related data, including details about movies, genres, actors, and more. This API allows users to fetch information about movies from a database and can be used for building applications that require movie-related data.
 
 ## Features
